@@ -11,6 +11,3 @@ We present an unsupervised model of dialogue act sequences in conversation. By m
  * Data processing: will be uploaded soon.
 
 
-## Supplementary Material
-
-We will soon upload a supplementrary material that describes the inference details of the model and additional experiment results.
