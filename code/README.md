@@ -1,4 +1,4 @@
-# CSM (Content Word Filtering and Speaker Preference Model)
+# Source Code for Content Word Filtering and Speaker Preference Model
 
 ## Dependencies
  * Java 8 is required.
