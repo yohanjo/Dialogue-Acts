@@ -6,7 +6,6 @@ We present an unsupervised model of dialogue act sequences in conversation. By m
 ## Source Code
 
  * Model: <https://github.com/yohanjo/YUtils/tree/master/src/topicmodel/csm>.
- * Data processing: will be uploaded soon.
 
 
 ## BibTeX
