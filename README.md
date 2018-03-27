@@ -1,4 +1,4 @@
-# EMNLP17 
+# Modeling Dialogue Acts with Content Word Filtering and Speaker Preferences
 
 [[bibtex](http://www.aclweb.org/anthology/D/D17/D17-1231.bib)]
 
